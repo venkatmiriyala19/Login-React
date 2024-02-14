@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Login-React/static/css/main.241951ba.css",
-    "main.js": "/Login-React/static/js/main.9949808c.js",
-    "index.html": "/Login-React/index.html",
-    "main.241951ba.css.map": "/Login-React/static/css/main.241951ba.css.map",
-    "main.9949808c.js.map": "/Login-React/static/js/main.9949808c.js.map"
+    "main.css": "/Hack-A-Tron/static/css/main.c085f6cb.css",
+    "main.js": "/Hack-A-Tron/static/js/main.5473e87a.js",
+    "static/media/img.png": "/Hack-A-Tron/static/media/img.1b91f70ebd4772635535.png",
+    "index.html": "/Hack-A-Tron/index.html",
+    "main.c085f6cb.css.map": "/Hack-A-Tron/static/css/main.c085f6cb.css.map",
+    "main.5473e87a.js.map": "/Hack-A-Tron/static/js/main.5473e87a.js.map"
   },
   "entrypoints": [
-    "static/css/main.241951ba.css",
-    "static/js/main.9949808c.js"
+    "static/css/main.c085f6cb.css",
+    "static/js/main.5473e87a.js"
   ]
 }
