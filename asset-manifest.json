@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Hack-A-Tron/static/css/main.c085f6cb.css",
-    "main.js": "/Hack-A-Tron/static/js/main.5473e87a.js",
+    "main.js": "/Hack-A-Tron/static/js/main.4f24176e.js",
     "static/media/img.png": "/Hack-A-Tron/static/media/img.1b91f70ebd4772635535.png",
     "index.html": "/Hack-A-Tron/index.html",
     "main.c085f6cb.css.map": "/Hack-A-Tron/static/css/main.c085f6cb.css.map",
-    "main.5473e87a.js.map": "/Hack-A-Tron/static/js/main.5473e87a.js.map"
+    "main.4f24176e.js.map": "/Hack-A-Tron/static/js/main.4f24176e.js.map"
   },
   "entrypoints": [
     "static/css/main.c085f6cb.css",
-    "static/js/main.5473e87a.js"
+    "static/js/main.4f24176e.js"
   ]
 }
